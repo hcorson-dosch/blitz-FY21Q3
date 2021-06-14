@@ -1,12 +1,10 @@
-# History files
-.Rhistory
-.Rapp.history
-
-# Session Data files
-.RData
-
-# User-specific files
+# R session files
 .Ruserdata
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.remake
 
 # Example code in package build process
 *-Ex.R
